@@ -60,6 +60,14 @@ body {
     font-family: 'PT Sans', sans-serif;
 
 }
+iframe.video {
+    width: auto;
+    height: auto;
+
+}
+i.fa-star-o {
+    font-size: small;
+}
 @media screen and (min-width: 1080px) {
     .nav {
         background-color: whitesmoke;
@@ -95,11 +103,18 @@ body {
         border: 5px solid silver;
         border-radius: 7px;
     }
+    iframe.video {
+        height: 315px;
+        width: 560px;
+    }
     a.welcome:hover {
         text-decoration: underline;
     }
     a.welcome {
         color: #00334d;
 
+    }
+    i.fa-star-o {
+        font-size: inherit;
     }
 }

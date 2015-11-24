@@ -60,7 +60,7 @@ body {
     font-family: 'PT Sans', sans-serif;
 
 }
-iframe.video {
+iframe {
     width: auto;
     height: auto;
 
@@ -106,6 +106,9 @@ i.fa-star-o {
     iframe.video {
         height: 315px;
         width: 560px;
+    }
+    iframe.sound {
+        width: 100%;
     }
     a.welcome:hover {
         text-decoration: underline;

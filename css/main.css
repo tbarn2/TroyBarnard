@@ -120,4 +120,9 @@ i.fa-star-o {
     i.fa-star-o {
         font-size: inherit;
     }
+    iframe.book {
+        align-content: center;
+        margin: 1em;
+        width: 100%;
+    }
 }

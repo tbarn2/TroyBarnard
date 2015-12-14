@@ -24,6 +24,11 @@ angular.module('TroyApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
                 templateUrl: 'partials/videos.html',
                 controller: 'TroyCtrl'
             })
+            .state('processbook', {
+                url: '/processbook',
+                templateUrl: 'partials/processbook.html',
+                controller: 'TroyCtrl'
+            })
     })
     .config(function($urlRouterProvider){
         // if the path doesn't match any of the urls you configured

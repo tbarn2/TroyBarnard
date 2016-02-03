@@ -106,12 +106,12 @@ i.fa-star-o {
     iframe.video {
         height: 315px;
         width: 560px;
-        border-radius: 2px;
+        border-width: 2px;
     }
     iframe.sound {
         width: 100%;
     }
-    a.navi:hover {
+    a.welcome:hover {
         text-decoration: underline;
     }
     a.welcome {

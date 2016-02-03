@@ -111,7 +111,7 @@ i.fa-star-o {
     iframe.sound {
         width: 100%;
     }
-    a.welcome:hover {
+    a.nav:hover {
         text-decoration: underline;
     }
     a.welcome {

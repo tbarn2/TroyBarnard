@@ -69,8 +69,8 @@ i.fa-star-o {
     font-size: small;
 }
 @media screen and (min-width: 1080px) {
-    .nav > i {
-        font-size: 20em;
+    h1 > i {
+        font-size: 10em;
     }
     .nav {
         background-color: whitesmoke;

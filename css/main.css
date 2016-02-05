@@ -3,7 +3,7 @@ a {
 }
 a:hover {
     color: #00334d;
-    text-decoration: blink;
+    text-decoration: underline;
 }
 a:visited {
     color: #00334d;

@@ -66,12 +66,12 @@ iframe {
 
 }
 i.fa {
-        font-size: small;
+    font-size: small;
 
 }
 @media screen and (min-width: 1080px) {
     i.fa {
-        font-size: large;
+        font-size: medium;
     }
     h1 > i {
         font-size: 10em;

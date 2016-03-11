@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b855df6-a7ab-4aea-aa77-9940309b3a88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/web.html" afterPath="$PROJECT_DIR$/partials/web.html" />
     </list>
     <ignored path="TroyBarnard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,21 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44362018">
+            <state vertical-scroll-proportion="-5.8627453">
               <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partials/web.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.083334">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.72182596">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -144,8 +144,8 @@
         <option value="$PROJECT_DIR$/partials/home.html" />
         <option value="$PROJECT_DIR$/partials/portfolio.html" />
         <option value="$PROJECT_DIR$/partials/resume.html" />
-        <option value="$PROJECT_DIR$/partials/web.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/partials/web.html" />
       </list>
     </option>
   </component>
@@ -375,12 +375,6 @@
       <created>1447303345696</created>
       <option name="number" value="Default" />
       <updated>1447303345696</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fixed video and star sizing problems on smaller screens&#10;">
-      <created>1448406057537</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1448406057537</updated>
     </task>
     <task id="LOCAL-00006" summary="fixed issue with blog video and soundcloud">
       <created>1448406527948</created>
@@ -670,7 +664,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457707794388</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="making images even smaller on mobile">
+      <created>1457707920108</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1457707920109</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -729,7 +729,8 @@
     <MESSAGE value="added a.skill for portfolio skills, changed a.skill color, changed a.skill: hover border size to 5px" />
     <MESSAGE value="updated resumé.html partial" />
     <MESSAGE value="trying to get jumbotron links and portfolio pictures working on mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to get jumbotron links and portfolio pictures working on mobile" />
+    <MESSAGE value="making images even smaller on mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="making images even smaller on mobile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1112,18 +1113,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/web.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.083334">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        <state vertical-scroll-proportion="-5.8627453">
+          <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/partials/web.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44362018">
-          <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.72182596">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding />
         </state>
       </provider>

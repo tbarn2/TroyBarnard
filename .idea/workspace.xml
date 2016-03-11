@@ -47,8 +47,8 @@
       <file leaf-file-name="web.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/partials/web.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72182596">
-              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.78602">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -376,12 +376,6 @@
       <option name="number" value="Default" />
       <updated>1447303345696</updated>
     </task>
-    <task id="LOCAL-00006" summary="fixed issue with blog video and soundcloud">
-      <created>1448406527948</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1448406527948</updated>
-    </task>
     <task id="LOCAL-00007" summary="fixed issue with blog video and soundcloud">
       <created>1448406625110</created>
       <option name="number" value="00007" />
@@ -670,7 +664,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457707920109</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="making images even smaller on mobile">
+      <created>1457708049286</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1457708049286</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1089,14 +1089,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/design.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
@@ -1121,10 +1113,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partials/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/partials/web.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72182596">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.78602">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding />
         </state>
       </provider>

@@ -140,7 +140,12 @@ h2.portfolio {
 }
 @media screen and (max-width: 500px) {
     img.portfolio {
-        width: 200px;
+        width: 150px;
+    }
+    p.header>a {
+        font-size: 2em;
+        color: whitesmoke;
+        padding-right: 1em;
     }
 }
 @media screen and (max-width: 786px) {

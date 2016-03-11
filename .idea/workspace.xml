@@ -37,8 +37,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5548961">
-              <caret line="147" column="24" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.44362018">
+              <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -376,12 +376,6 @@
       <option name="number" value="Default" />
       <updated>1447303345696</updated>
     </task>
-    <task id="LOCAL-00004" summary="mostly all complete">
-      <created>1448049414597</created>
-      <option name="number" value="00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1448049414597</updated>
-    </task>
     <task id="LOCAL-00005" summary="fixed video and star sizing problems on smaller screens&#10;">
       <created>1448406057537</created>
       <option name="number" value="00005" />
@@ -670,7 +664,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457707490263</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="trying to get jumbotron links and portfolio pictures working on mobile">
+      <created>1457707794387</created>
+      <option name="number" value="00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1457707794388</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -728,7 +728,8 @@
     <MESSAGE value="fixing header for mobile&#10;" />
     <MESSAGE value="added a.skill for portfolio skills, changed a.skill color, changed a.skill: hover border size to 5px" />
     <MESSAGE value="updated resumé.html partial" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated resumé.html partial" />
+    <MESSAGE value="trying to get jumbotron links and portfolio pictures working on mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to get jumbotron links and portfolio pictures working on mobile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1121,8 +1122,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5548961">
-          <caret line="147" column="24" selection-start-line="147" selection-start-column="24" selection-end-line="147" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.44362018">
+          <caret line="142" column="18" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="18" />
           <folding />
         </state>
       </provider>

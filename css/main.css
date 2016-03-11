@@ -47,7 +47,9 @@ footer {
 .resume {
     text-align: center;
 }
-
+.resume>h4 {
+    text-decoration: underline;
+}
 .content {
     color: #262626;
 }

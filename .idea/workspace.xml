@@ -4,7 +4,7 @@
     <list default="true" id="3b855df6-a7ab-4aea-aa77-9940309b3a88" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/resume.html" afterPath="$PROJECT_DIR$/partials/resume.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/web.html" afterPath="$PROJECT_DIR$/partials/web.html" />
     </list>
     <ignored path="TroyBarnard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.958333">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.2296719">
+              <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/web.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.083334">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -95,10 +105,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17118402">
+            <state vertical-scroll-proportion="-5.0">
               <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
               <folding />
             </state>
@@ -127,7 +137,6 @@
         <option value="$PROJECT_DIR$/partials/processbook.html" />
         <option value="$PROJECT_DIR$/partials/videos.html" />
         <option value="$PROJECT_DIR$/partials/webprogramming" />
-        <option value="$PROJECT_DIR$/partials/web.html" />
         <option value="$PROJECT_DIR$/partials/design.html" />
         <option value="$PROJECT_DIR$/partials/programming.html" />
         <option value="$PROJECT_DIR$/js/app.js" />
@@ -135,8 +144,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/partials/home.html" />
         <option value="$PROJECT_DIR$/partials/portfolio.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/partials/resume.html" />
+        <option value="$PROJECT_DIR$/partials/web.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -366,12 +376,6 @@
       <created>1447303345696</created>
       <option name="number" value="Default" />
       <updated>1447303345696</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2nd commit&#10;">
-      <created>1447973208257</created>
-      <option name="number" value="00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1447973208257</updated>
     </task>
     <task id="LOCAL-00003" summary="all good">
       <created>1448013594034</created>
@@ -661,7 +665,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457705813241</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="updated resumé.html partial">
+      <created>1457707152797</created>
+      <option name="number" value="00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1457707152797</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -718,7 +728,8 @@
     <MESSAGE value="more space in header" />
     <MESSAGE value="fixing header for mobile&#10;" />
     <MESSAGE value="added a.skill for portfolio skills, changed a.skill color, changed a.skill: hover border size to 5px" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a.skill for portfolio skills, changed a.skill color, changed a.skill: hover border size to 5px" />
+    <MESSAGE value="updated resumé.html partial" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated resumé.html partial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1037,14 +1048,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/web.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1093,14 +1096,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.958333">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/design.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
@@ -1111,8 +1106,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17118402">
+        <state vertical-scroll-proportion="-5.0">
           <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.083334">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2296719">
+          <caret line="133" column="1" selection-start-line="133" selection-start-column="1" selection-end-line="133" selection-end-column="1" />
           <folding />
         </state>
       </provider>

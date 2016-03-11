@@ -1,0 +1,14 @@
+{
+  "name": "canvas-demo",
+  "homepage": "https://github.com/tbarn2/canvas-demo",
+  "_release": "731b1252b8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "731b1252b8222da2b68fbd398af033e9303efdd5"
+  },
+  "_source": "https://github.com/tbarn2/canvas-demo.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/tbarn2/canvas-demo.git",
+  "_direct": true
+}

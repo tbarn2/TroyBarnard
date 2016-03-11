@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="img/code10.png" rel="icon" type="image/x-icon" />
+        <link href="img/favicon.png" rel="icon" type="image/x-icon" />
         <title>Troy Barnard</title>
         <!--fonts-->
         <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
@@ -20,17 +20,36 @@
         <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     </head>
     <body>
-        <div class="jumbotron">
-            <div>
-                <h1>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Troy Barnard &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</h1>
-                <p class="nav"><a ui-sref="home">Home</a> <i class="fa fa-star"></i> <a ui-sref="resume">Resume</a> <i class="fa fa-star"></i> <a ui-sref="blog">Blog</a> <i class="fa fa-star"></i> <a ui-sref="videos">Videos</a></p>
+        <nav class="navbar navbar-default">
+            <nav>
+                <ul class="nav nav-pills">
+                    <li role="presentation"><a ui-sref="home">Home</a></li>
+                    <li role="presentation"><a ui-sref="resume">Resumé</a></li>
+                    <li role="presentation"><a ui-sref="portfolio" href="portfolio">Portfolio</a></li>
+                </ul>
+            </nav>
+            <div class="jumbotron">
+                <div class="container-fluid">
+                    <h1>Troy Barnard</h1>
+                    <p class="header hidden-xs hidden-sm">
+                        <i class="fa-code fa"></i>
+                        <i class="fa-laptop fa"></i>
+                        <i class="fa-headphones fa"></i>
+                        <i class="fa-paw fa"></i>
+                    </p>
+                    <p class="header pull-right">
+                        <a class="linked-in" href="https://www.linkedin.com/in/troy-barnard-7447a110b"><i class="fa fa-linkedin"></i></a>
+                        <a class="git" href="https://github.com/tbarn2"><i class="fa fa-github-square"></i></a>
+                        <a class="yt" href="https://www.youtube.com/channel/UCkh2aNx_7eqw_2EDCPDkyhQ"><i class="fa fa-youtube"></i></a>
+                    </p>
+                </div>
             </div>
-        </div>
+        </nav>
         <div ui-view>
         </div>
         <footer>
             <div id="footer" class="container-fluid">
-                <p><i class="fa fa-copyright"></i> 2015</p>
+                <p><i class="fa fa-copyright"></i> 2016</p>
             </div>
         </footer>
         <!-- load external libraries -->

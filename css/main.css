@@ -115,6 +115,7 @@ div.jumbotron {
 }
 p.pull-right {
     margin: 0;
+    -webkit-transition: all 600ms cubic-bezier(0.6, 0.04, 0.98, 0.335);
 }
 nav > div.jumbotron > div.container-fluid > h1 {
     color: #ffd200;

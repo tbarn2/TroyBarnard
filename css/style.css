@@ -189,7 +189,7 @@ h2.portfolio {
   .home-background div {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1000px;
+    max-width: 1200px;
     display: flex;
     -webkit-align-items: center;
     align-items: center; }
@@ -200,7 +200,7 @@ h2.portfolio {
       font-size: 20px;
       line-height: 2em; }
     .home-background div i {
-      font-size: 25px;
+      font-size: 45px;
       margin: 10px; }
     .home-background div i.fa-youtube {
       color: red; }
@@ -214,30 +214,16 @@ h2.portfolio {
       text-decoration: none; }
     .home-background div img.portrait {
       border-radius: 5%;
-      width: 95%; }
-
-.home-portfolio {
-  margin-top: 45px;
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto; }
-  .home-portfolio div.row {
-    text-align: center; }
-    .home-portfolio div.row div {
-      text-align: center;
-      font-size: 18px;
-      margin-left: auto;
-      margin-right: auto; }
-      .home-portfolio div.row div i {
-        font-size: 65px; }
-      .home-portfolio div.row div ul {
-        padding-left: 0;
-        margin-top: 10px;
-        list-style-position: inside; }
-        .home-portfolio div.row div ul a {
-          text-decoration: underline; }
-        .home-portfolio div.row div ul li {
-          font-size: 14px; }
+      width: 95%;
+      -webkit-filter: grayscale(85%);
+      /* Chrome, Safari, Opera */
+      filter: grayscale(85%); }
+    .home-background div ul {
+      padding-left: 0;
+      font-size: 20px; }
+      .home-background div ul li {
+        list-style-position: inside;
+        min-width: 300px; }
 
 .web-dev {
   background-image: url("/img/bg/web-dev-bg.jpg"); }

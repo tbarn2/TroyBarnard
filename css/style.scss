@@ -209,7 +209,7 @@ h2.portfolio {
   div {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1000px;
+    max-width: 1200px;
     display: flex;
     -webkit-align-items: center;
     align-items: center;
@@ -222,7 +222,7 @@ h2.portfolio {
       line-height: 2em;
     }
     i {
-      font-size: 25px;
+      font-size: 45px;
       margin: 10px;
     }
     i.fa-youtube {
@@ -242,34 +242,15 @@ h2.portfolio {
     img.portrait {
       border-radius: 5%;
       width: 95%;
+      -webkit-filter: grayscale(85%); /* Chrome, Safari, Opera */
+      filter: grayscale(85%);
     }
-  }
-}
-.home-portfolio {
-  margin-top: 45px;
-  max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
-  div.row {
-    text-align: center;
-    div {
-      text-align: center;
-      font-size: 18px;
-      margin-left: auto;
-      margin-right: auto;
-      i {
-        font-size: 65px;
-      }
-      ul {
-        padding-left: 0;
-        margin-top: 10px;
-        a {
-          text-decoration: underline;
-        }
+    ul {
+      padding-left: 0;
+      font-size: 20px;
+      li {
         list-style-position: inside;
-        li {
-          font-size: 14px;
-        }
+        min-width: 300px;
       }
     }
   }

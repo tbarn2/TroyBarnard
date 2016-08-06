@@ -176,6 +176,8 @@ h2.portfolio {
   align-items: center;
   z-index: 0;
   min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center center;
   div {
     align-self: flex-start;
     margin-top: 45px;

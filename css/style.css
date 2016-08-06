@@ -30,7 +30,6 @@ p.header > a {
 
 footer {
   text-align: center;
-  margin-top: 120px;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -152,40 +151,70 @@ h2.portfolio {
     padding: 0;
     width: 100%;
     height: 500px; } }
-.banner-home {
-  background-image: url("../img/bg/background.jpg");
-  background-size: cover;
+.fixed-bg {
+  background-attachment: fixed;
+  background-position: center center;
+  height: 100%;
   background-repeat: no-repeat;
   display: flex;
   -webkit-align-items: center;
   align-items: center;
-  z-index: 0;
-  min-height: 100vh;
-  background-attachment: fixed;
-  background-position: center center; }
-  .banner-home div {
+  background-size: cover;
+  min-height: 100vh; }
+  .fixed-bg div {
     align-self: flex-start;
-    margin-top: 45px;
+    margin-top: 100px;
     color: whitesmoke; }
-    .banner-home div i {
+    .fixed-bg div i {
       font-size: 90px;
       text-shadow: 4px 4px 10px #262626; }
-    .banner-home div h1 {
+    .fixed-bg div h1 {
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 120px;
       text-shadow: 2px 2px 5px #262626;
       margin-top: 65px; }
 
-.welcome {
-  margin-top: 45px; }
-  .welcome p {
-    margin-top: 10px;
-    text-align: center;
-    font-size: 20px; }
-  .welcome a {
-    color: #262626; }
-  .welcome a:hover {
-    text-decoration: none; }
+.banner-home {
+  background-image: url("../img/bg/background.jpg"); }
+
+.home-background {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  background-size: cover;
+  min-height: 50vh;
+  padding: 20px 25px;
+  background-color: #d9d9d9;
+  color: #444444; }
+  .home-background div {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center; }
+    .home-background div div.icons {
+      padding-left: 5%; }
+    .home-background div p {
+      margin-top: 10px;
+      font-size: 20px;
+      line-height: 2em; }
+    .home-background div i {
+      font-size: 25px;
+      margin: 10px; }
+    .home-background div i.fa-youtube {
+      color: red; }
+    .home-background div h2 {
+      font-size: 22px;
+      color: #444444; }
+    .home-background div a {
+      color: #262626;
+      text-decoration: underline; }
+    .home-background div a:hover {
+      text-decoration: none; }
+    .home-background div img.portrait {
+      border-radius: 5%;
+      width: 95%; }
 
 .home-portfolio {
   margin-top: 45px;
@@ -196,7 +225,9 @@ h2.portfolio {
     text-align: center; }
     .home-portfolio div.row div {
       text-align: center;
-      font-size: 18px; }
+      font-size: 18px;
+      margin-left: auto;
+      margin-right: auto; }
       .home-portfolio div.row div i {
         font-size: 65px; }
       .home-portfolio div.row div ul {
@@ -208,10 +239,10 @@ h2.portfolio {
         .home-portfolio div.row div ul li {
           font-size: 14px; }
 
-.home-header {
-  padding-top: 200px;
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto; }
+.web-dev {
+  background-image: url("/img/bg/web-dev-bg.jpg"); }
+
+.music {
+  background-image: url("/img/bg/music.jpeg"); }
 
 /*# sourceMappingURL=style.css.map */

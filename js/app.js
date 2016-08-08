@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('TroyApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
+var troyApp = angular.module('TroyApp' , ['ngSanitize', 'ui.router', 'ui.bootstrap'])
     .config(function($stateProvider) {
         $stateProvider.
             state('home', {
